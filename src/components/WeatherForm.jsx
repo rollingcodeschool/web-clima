@@ -38,7 +38,7 @@ const WeatherForm = ({setWeatherData, setError}) => {
       <h1>Clima App <i className="bi bi-cloud-sun"></i></h1>
       <Form className="my-5" onSubmit={handleSubmit}>
         <Row>
-          <Col>
+          <Col md={6}>
             <Form.Group className="mb-3" controlId="formCity">
               <Form.Label>Ciudad</Form.Label>
               <Form.Control
@@ -52,7 +52,7 @@ const WeatherForm = ({setWeatherData, setError}) => {
               />
             </Form.Group>
           </Col>
-          <Col>
+          <Col md={6}>
             <Form.Group className="mb-3" controlId="formCountry">
               <Form.Label>Codigo de pais</Form.Label>
               <Form.Control
