@@ -1,12 +1,12 @@
-# Web de clima
+# Web de clima ⛅​
 
-Proyecto para practicar consultas a una api usando react.
+Proyecto para practicar consultas a una api y componentes condicionales usando react.
 
-## Demo
+## Demo ​📱​
 
 [web-clima](https://rollingcodeschool.github.io/web-clima/)
 
-## Recursos utilizados
+## Recursos utilizados ​🛠️​
 
 - React-bootstrap
 - Bootstrap v5.2
