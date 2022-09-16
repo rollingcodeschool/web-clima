@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/web-clima/static/css/main.1d65cab1.css",
+    "main.js": "/web-clima/static/js/main.249c8a67.js",
+    "static/media/bootstrap-icons.woff?": "/web-clima/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
+    "static/media/bootstrap-icons.woff2?": "/web-clima/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
+    "index.html": "/web-clima/index.html",
+    "main.1d65cab1.css.map": "/web-clima/static/css/main.1d65cab1.css.map",
+    "main.249c8a67.js.map": "/web-clima/static/js/main.249c8a67.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d65cab1.css",
+    "static/js/main.249c8a67.js"
+  ]
+}
